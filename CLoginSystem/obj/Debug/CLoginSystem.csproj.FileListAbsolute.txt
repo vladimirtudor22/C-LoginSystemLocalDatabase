@@ -1,0 +1,10 @@
+C:\Users\Vladimir\Documents\Visual Studio 2012\Projects\CLoginSystem\CLoginSystem\bin\Debug\CLoginSystem.exe.config
+C:\Users\Vladimir\Documents\Visual Studio 2012\Projects\CLoginSystem\CLoginSystem\bin\Debug\CLoginSystem.exe
+C:\Users\Vladimir\Documents\Visual Studio 2012\Projects\CLoginSystem\CLoginSystem\bin\Debug\CLoginSystem.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2012\Projects\CLoginSystem\CLoginSystem\obj\Debug\CLoginSystem.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Documents\Visual Studio 2012\Projects\CLoginSystem\CLoginSystem\obj\Debug\CLoginSystem.Login.resources
+C:\Users\Vladimir\Documents\Visual Studio 2012\Projects\CLoginSystem\CLoginSystem\obj\Debug\CLoginSystem.Properties.Resources.resources
+C:\Users\Vladimir\Documents\Visual Studio 2012\Projects\CLoginSystem\CLoginSystem\obj\Debug\CLoginSystem.csproj.GenerateResource.Cache
+C:\Users\Vladimir\Documents\Visual Studio 2012\Projects\CLoginSystem\CLoginSystem\obj\Debug\CLoginSystem.exe
+C:\Users\Vladimir\Documents\Visual Studio 2012\Projects\CLoginSystem\CLoginSystem\obj\Debug\CLoginSystem.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2012\Projects\CLoginSystem\CLoginSystem\bin\Debug\Database.sdf
