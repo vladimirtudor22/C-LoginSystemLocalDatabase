@@ -1,5 +1,6 @@
 # C-LoginSystemLocalDatabase
-Hello, this Login System works with SQL Local Database. 
+Hello!
+This is a Login System which works with SQL Local Database. 
 The system works using SQL Query.
 I used Visual Studio Express 2012 Version.
 
